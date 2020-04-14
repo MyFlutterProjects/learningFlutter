@@ -9,6 +9,8 @@ Am following the official flutter docs
 # 1.Introduction to widgets 
 
 ### Hello world
+    - runApp() takes a widget and makes it the root of the tree
+    
 ### Basic Widgets
 ### Using Material component
 ### Handling gestures
